@@ -1,0 +1,4 @@
+project_id = "sjjhysopzecqczutuelu"
+
+[functions.classroom-ingest]
+verify_jwt = false

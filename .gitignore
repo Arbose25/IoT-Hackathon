@@ -15,6 +15,7 @@ id_ed25519
 secrets.*
 credentials.*
 wifi_credentials.*
+/firmware/include/level1.local.h
 
 # PlatformIO build files
 .pio/
